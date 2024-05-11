@@ -9,3 +9,8 @@ The key research deliverables and conclusions are:
 3. The overfitting issue in decision tree models was mitigated, as shown by an improvement in the cross-validation score, indicating better generalization to new data.
 4. The method relied on utilizing Prolog with PySwip and Scikit-learn, allowing for seamless integration of symbolic rules with relatively low computer resource requirements.
 
+
+Datasets:
+1. https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+2. https://www.kaggle.com/datasets/sjleshrac/airlines-customer-satisfaction
+
